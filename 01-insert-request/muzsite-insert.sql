@@ -291,8 +291,8 @@ INSERT INTO album_performer (album_id, performer_id)
 INSERT INTO collection (name, "year")
  VALUES('Hard rock (1)', '2001-10-05'),
 	   ('Hard rock (2)', '2003-04-03'),
-       ('Progressive', '2010-12-06'),
-       ('Power', '2021-11-09');
+       ('Progressive', '2019-12-06'),
+       ('Power', '2020-11-09');
       
  -- 'Hard rock (1)'      
         
